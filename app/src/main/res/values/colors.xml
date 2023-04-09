@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="textColor">#FFFFFF</color>
+    <color name="activityBackground">#7AB7FF</color>
+    <color name="stripBackground">#DDDDDD</color>
+    static final int DUSTSTATE_EXCELLENT = Color.rgb(150, 250, 250);
+    static final int DUSTSTATE_GOOD = Color.rgb(50, 200, 50);
+    static final int DUSTSTATE_NORMAL = Color.rgb(250, 150, 100);
+    static final int DUSTSTATE_BAD =Color.rgb(250, 0, 0);
+    <color name="dustGood">#96FAFA</color>
+    <color name="dustNormal">#32C832</color>
+    <color name="dustBad">#FF8C5A</color>
+    <color name="dustTooBad">#FA0000</color>
+    <color name="ulsan">#FF00FF</color>
+    <color name="busan">#FF01FF</color>
+    <color name="daegu">#FF02FF</color>
+    <color name="gyeungnam">#FF03FF</color>
+    <color name="gyeongbuk">#FF04FF</color>
+    <color name="gwangju">#FF05FF</color>
+    <color name="jeonnam">#FF06FF</color>
+    <color name="jeonbuk">#FF07FF</color>
+    <color name="daejun">#FF08FF</color>
+    <color name="sejong">#FF09FF</color>
+    <color name="chungnam">#FF10FF</color>
+    <color name="chungbuk">#FF11FF</color>
+    <color name="gangwon">#FF12FF</color>
+    <color name="seoul">#FF13FF</color>
+    <color name="incheon">#FF14FF</color>
+    <color name="gyeonggi">#FF15FF</color>
+    <color name="jeju">#FF16FF</color>
+    <color name="northKorea">#FF17FF</color>
+</resources>
